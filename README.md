@@ -82,7 +82,6 @@ The QLI Client is the pool client and connects to the pool.
 | Linux | x64	| 3.9.1 | https://dl.qubic.li/downloads/qli-Client-3.9.1-Linux-x64.tar.gz | 
 | Linux | arm64	| 3.9.1 | https://dl.qubic.li/downloads/qli-Client-3.9.1-Linux-arm64.tar.gz | 
 | HiveOs | x64	| 3.9.1 | [HiveOs Instructions](https://github.com/qubic-li/hiveos) | 
-| RaveOs | x64	| 3.9.1 | [RaveOs Instructions](https://github.com/qubic-li/raveos) | 
 | mmpOs | x64	| 3.9.1 | [mmpOs Instructions](https://github.com/qubic-li/mmpos) | 
 | Android | arm64	| 3.9.1 | [Android unsigned APK](https://dl.qubic.li/downloads/qli-Client-3.9.1-android-arm64.apk) | 
 
